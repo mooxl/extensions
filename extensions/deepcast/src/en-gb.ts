@@ -1,7 +1,7 @@
 import { translate } from "./utils";
 
-const EnglishUK = async () => {
+const EnglishGB = async () => {
   await translate("EN-GB");
   return null;
 };
-export default EnglishUK;
+export default EnglishGB;
